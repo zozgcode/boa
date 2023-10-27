@@ -3,7 +3,6 @@ import { useNavigate } from "react-router-dom";
 import "./Login.css";
 import users from "../userDB";
 import Header from "../header/Header";
-import iconUser from "../../assets/icon-user.svg";
 
 const Login = () => {
   const [islogged, setIslogged] = useState(false);
