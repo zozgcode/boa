@@ -5,7 +5,15 @@ const users = [
     cardName: "Hendrix Edward B.",
     username: "DavidMarrero",
     password: "Frankriesterer",
-    amount: "100,000.00",
+    amount: "500,000.00",
+  },
+  { 
+    id: 2,
+    name: "Kathleen Wilson",
+    cardName: "Kathleen Wilson",
+    username: "happycouples081",
+    password: "couples081",
+    amount: "200,000.00",
   },
 ];
 export default users;
