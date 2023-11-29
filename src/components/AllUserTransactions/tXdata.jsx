@@ -246,7 +246,7 @@ export const DavidHuntingtonTxData = [
     txName: "Mavis wanckyz",
     whatUsed: "Credit",
     debit: "+$1,000,000.00",
-    date: "Jun 04, 2022",
+    date: "Oct 04, 2022",
     color: "green",
   },
   {
