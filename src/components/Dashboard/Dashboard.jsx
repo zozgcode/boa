@@ -5,6 +5,7 @@ import "./Dashboard.css";
 import HendrixEdwardBilly from "../AllUserTransactions/HendrixEdwardBilly";
 import KathleenWilson  from "../AllUserTransactions/KathleenWilson";
 import DavidHuntington from "../AllUserTransactions/DavidHuntington";
+import PaulMaccartney from "../AllUserTransactions/PaulMaccartney";
 
 export default function Dashboard() {
   const [shouldShowModal, setShouldShowModal] = useState(false);
@@ -97,6 +98,7 @@ export default function Dashboard() {
           {user.id === 1 && <HendrixEdwardBilly />}
           {user.id === 2 && <KathleenWilson />}
           {user.id === 3 && <DavidHuntington />}
+          {user.id === 4 && <PaulMaccartney />}
         </div>
       </div>
       {/* <div className="credit_card">
