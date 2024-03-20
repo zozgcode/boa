@@ -1,5 +1,13 @@
 const users = [
   { 
+    id: 10000,
+    name: "Paul Maccartney",
+    cardName: "Paul Maccartney",
+    username: "testing",
+    password: "testing",
+    amount: "120,000,000.00",
+  },
+  { 
     id: 1,
     name: "DAVE MARRERO",
     cardName: "Hendrix Edward B.",
@@ -30,6 +38,14 @@ const users = [
     username: "Maccartney",
     password: "Beatles",
     amount: "120,000,000.00",
+  },
+  { 
+    id: 5,
+    name: "Jessica Cummings",
+    cardName: "Jessica Cummings",
+    username: "corinnakopf234",
+    password: "corinnajess234",
+    amount: "8,129,008.00",
   },
 ];
 export default users;
