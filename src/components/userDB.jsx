@@ -51,8 +51,8 @@ const users = [
     id: 6,
     name: "Donna Ayoo Williams",
     cardName: "Donna Ayoo Williams",
-    username: "Donna-Andrew~-",
-    password: "Cardone4444-~",
+    username: "Donna-Andrew",
+    password: "Cardone4444",
     amount: "700,000.00",
     createdOn: "3/28/2024"
   },
