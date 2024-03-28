@@ -629,7 +629,7 @@ export const GregoryHartmannTxData = [
   {
     txName: "Safe insurance Services",
     whatUsed: "Credit",
-    debit: "+$700,000.00",
+    debit: "+$800,000.00",
     date: " April 10, 2024",
     color: "green",
   },
