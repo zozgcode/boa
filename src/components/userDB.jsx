@@ -49,11 +49,11 @@ const users = [
   },
   { 
     id: 6,
-    name: "Donna Ayoo Williams",
-    cardName: "Donna Ayoo Williams",
-    username: "Donna-Andrew-3-",
-    password: "Cardone4444-`03",
-    amount: "700,000.00",
+    name: "Gregory Hartmann",
+    cardName: "Gregory Hartmann",
+    username: "gregoryhartmann8",
+    password: "gregoryhartmann2024",
+    amount: "800,000.00",
     createdOn: "3/28/2024"
   },
 ];

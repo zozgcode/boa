@@ -625,7 +625,7 @@ export const JessicaCummingsTxData = [
     color: "red",
   },
 ];
-export const DonnaAyooWilliamsTxData = [
+export const GregoryHartmannTxData = [
   {
     txName: "Safe insurance Services",
     whatUsed: "Credit",

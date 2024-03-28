@@ -1,18 +1,18 @@
 import React from "react";
 import style from "./style.module.scss";
-import { DonnaAyooWilliamsTxData } from "./tXdata";
+import { GregoryHartmannTxData } from "./tXdata";
 
-export default function DonnaAyooWilliams() {
+export default function GregoryHartmann() {
   return (
     <div className={style.transaction_history}>
       <div className={style.in_transaction_history}>
         <div className={style.title}>Last Transaction</div>
-        {DonnaAyooWilliamsTxData.length === 0 && (
+        {GregoryHartmannTxData.length === 0 && (
           <div className={style.no_transaction_yet}>
             No transaction yet
           </div>
         )}
-        {DonnaAyooWilliamsTxData.map((aTxData, i) => (
+        {GregoryHartmannTxData.map((aTxData, i) => (
           <div className={`${style.t_box} ${i === 0 ? style.firstContainer : ''}`} key={i}>
             <div className={style.s_box}>
               <div className={`${style.top} ${style.top_t}`}>{aTxData.txName}</div>
