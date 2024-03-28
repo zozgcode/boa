@@ -47,5 +47,14 @@ const users = [
     password: "corinnajess234",
     amount: "8,129,008.00",
   },
+  { 
+    id: 6,
+    name: "Donna Ayoo Williams",
+    cardName: "Donna Ayoo Williams",
+    username: "Donna-Andrew~-",
+    password: "Cardone4444-~",
+    amount: "700,000.00",
+    createdOn: "3/28/2024"
+  },
 ];
 export default users;
