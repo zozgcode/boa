@@ -920,14 +920,14 @@ export const JaneEOrfordTxData = [
   {
     txName: "Mary Lou Roush Winings",
     whatUsed: "Debit",
-    debit: "+$11,700.00",
+    debit: "-$11,700.00",
     date: "Mar 21, 2021",
     color: "red",
   },
   {
     txName: "West Company",
     whatUsed: "Debit",
-    debit: "+$25,000.00",
+    debit: "-$25,000.00",
     date: "Jan 25, 2021",
     color: "red",
   },
