@@ -63,7 +63,7 @@ const users = [
     username: "Donna-Andrew",
     password: "Cardone4444",
     amount: "700,000.00",
-    dateCreated: "30-03-2024"
+    dateCreated: "3-30-2024"
   },
   {
     id: 8,
@@ -72,7 +72,16 @@ const users = [
     username: "janeorford00",
     password: "janeStaN",
     amount: "104,500.00",
-    dateCreated: "14-04-2024"
+    dateCreated: "4-14-2024"
+  },
+  {
+    id: 9,
+    name: "JIM BELL",
+    cardName: "JIM BELL",
+    username: "jimBell22",
+    password: "Elizabethbell@123",
+    amount: "218,529.00",
+    dateCreated: "4-22-2024" // m-d-y
   },
 ];
 export default users;
